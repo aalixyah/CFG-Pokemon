@@ -1,0 +1,1 @@
+This program is a small command line game that uses pokeapi, allowing the player to choose from three randomly generated pokemon characters in order to play against the computer. This project was made as part of the CFG Uni Kickstarter course.
