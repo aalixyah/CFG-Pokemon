@@ -64,11 +64,11 @@ def run():
     my_stat = my_chosen_pokemon[stat_choice]
     opponent_stat = opponent_pokemon[stat_choice]
     if my_stat > opponent_stat:
-        print('You Win!')
+        print('You Win! :)')
     elif my_stat < opponent_stat:
-        print('You Lose!')
+        print('You Lose! :(')
     else:
-        print('Draw!')
+        print('It\'s A Draw!')
 
 
 run()
